@@ -1,4 +1,5 @@
 # nodejs_chat_app.
+
 Node JS chat application
 **Real-Time Chat Application**
 
@@ -29,7 +30,7 @@ This repository contains the source code for a real-time chat application built 
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Run the application using `npm start`.
-5. Access the application via a web browser at `http://localhost:3000`.
+5. Check the terminal to get information about the port on which app runs, it should be something like this: http://localhost:3000.
 
 ### Future Enhancements:
 
