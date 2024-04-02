@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_chat_app",
+  "version": "1.0.0",
+  "description": "Node JS chat application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --ext js,json,mjs,coffee,litcoffee,html,htm index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@socket.io/cluster-adapter": "^0.2.2",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
